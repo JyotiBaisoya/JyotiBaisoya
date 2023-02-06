@@ -8,6 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/JyotiBaisoya/JyotiBaisoya.github.io.git](https://github.com/JyotiBaisoya/JyotiBaisoya.github.io.git)
 
 - 📫 How to reach me **jyotibaisoya2508@gmail.com**
+- 📫 How to reach me **in/jyoti-baisoya-569502263**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
