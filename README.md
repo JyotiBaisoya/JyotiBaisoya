@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotibaisoya&label=Profile%20views&color=0e75b6&style=flat" alt="jyotibaisoya" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/JyotiBaisoya/JyotiBaisoya.github.io.git](https://github.com/JyotiBaisoya/JyotiBaisoya.github.io.git)
+- 👨‍💻 All of my projects are available at [https://github.com/JyotiBaisoya/JyotiBaisoya.github.io.git](https://jyotibaisoya.github.io/)
 
 - 📫 How to reach me **jyotibaisoya2508@gmail.com**
 
